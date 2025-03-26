@@ -40,6 +40,15 @@ How does defining the project scope contribute to successful project planning? W
 
 
 What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+    A detailed project schedule can help to:
+    Ensure that all tasks are completed on time and within budget.
+    Identify potential scheduling conflicts and risks.
+    Allocate resources effectively.
+    Monitor project progress and make adjustments as necessary.
+
+    A Gantt chart is a graphical representation of activity against time; it helps project professionals monitor progress.
+    
+    
 
 
 What are the core issues that your software aims to address? Why are these problems significant to your target audience?
