@@ -46,6 +46,9 @@ In what types of projects might Agile be more beneficial than Waterfall, and vic
 
 
 What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+    To ensure quality assurance throughout a software project, implement a combination of methods including rigorous testing (functional, integration, regression, performance, security),
+    continuous integration, and a strong quality management plan, focusing on early bug detection and continuous improvement. 
+     Software quality assurance ensures that the software meets the specified quality standards and requirements. This results in software that is more reliable, efficient, and user-friendly.
 
 
 How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
