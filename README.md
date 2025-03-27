@@ -20,22 +20,21 @@ Compare and contrast Agile and Waterfall methodologies. What are the main advant
     Agile, with its iterative and flexible approach, focuses on adaptability and customer feedback, while Waterfall, a structured and sequential method, 
     excels in projects with clear, well-defined requirements. 
 
-    advantages of agile.
+    Advantages of agile.
     Adaptability and Flexibility: Agile allows for changes and adjustments throughout the project lifecycle, responding to evolving needs and customer feedback. 
     Faster Feedback Cycles: Iterative development and frequent testing lead to quicker identification and resolution of issues.
-    
-    disadvantages of agile
+    Disadvantages of agile
     Requires Experienced Teams: Agile methodologies, especially Scrum, can be challenging to implement effectively without a skilled and experienced team. 
     Potential for Scope Creep: The flexibility of Agile can lead to changes and additions to the project scope, potentially causing delays and cost overruns if not managed effectively. 
 
-    advantages of waterfall
+    Advantages of waterfall
     Clear Structure and Documentation: Waterfall's sequential nature provides a clear and structured approach to project development, with well-defined phases and deliverables. 
-    Easy to Manage: The structured nature of Waterfall makes it easier to manage and track progress, especially for projects with well-defined requirements.
-    
-    disadvantages of waterfall
+    Easy to Manage: The structured nature of Waterfall makes it easier to manage and track progress, especially for projects with well-defined requirements. 
+    Disadvantages of waterfall
     Lack of Flexibility: Waterfall's sequential nature makes it difficult to accommodate changes or adjustments once the project is underway. 
     Delayed Testing: Testing is typically performed at the end of the project in Waterfall, which can lead to problems being discovered late and requiring costly rework. 
 
+    
     
 In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
     Agile is generally preferred for projects with evolving requirements, frequent client feedback, and a need for flexibility, while Waterfall is better suited for projects 
@@ -66,18 +65,27 @@ What are the benefits of developing a detailed project schedule, and how can Gan
     Allocate resources effectively.
     Monitor project progress and make adjustments as necessary.
 
-    A Gantt chart is a graphical representation of activity against time; it helps project professionals monitor progress.
-    
-    
+    A Gantt chart is defined as a graphical representation of activity against time; it helps project professionals monitor progress. Gantt charts are essentially task scheduling tools: project management
+    timelines and tasks are converted into horizontal bars (also called Gantt bars) to form a bar chart.
+    A Gantt chart can help ensure that leaders and workers manage their time and resources effectively.
 
 
 What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+    unclear project goals, lack of communication, software integration problems, poor software quality, and technical debt, which are significant to the target audience
+    because they lead to project delays, cost overruns, and ultimately, a product that fails to meet needs.
+    
 
 
 How can clearly defining the problem help in developing a more effective software solution?
+    By defining the problem before jumping into solutions, you gain a deeper understanding of its nature and scope. This clarity allows you to identify any
+    underlying complexities or contributing factors that may be at play.If we can't state the problem, we can't even know where to begin in solving it. This can be one
+    of the most difficult parts of any project and the most important.
+    
 
 
 How would you describe your software solution in a way that captures its essence without diving into technical details?
+    Don't dive into the technical details right away. Instead, give an overview of the main idea, problem, or solution that you are explaining. Why is it important, relevant, or useful?
+    
 
 
 What are the main features or functionalities that make your software stand out?
