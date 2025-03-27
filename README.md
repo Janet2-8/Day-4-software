@@ -6,6 +6,7 @@ Why is timely delivery crucial in software project management, and how can proje
     Timely delivery is crucial  because it directly impacts customer satisfaction, project profitability, and team morale. Meeting deadlines helps build trust, 
     allows for timely market entry, and prevents cost overruns associated with delays. 
     Project managers can ensure deadlines are met through effective planning, clear communication, proactive monitoring, and proper resource allocation.
+    
 
 How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
     Effective cost control is crucial for software project success as it ensures projects stay within budget, optimizes resource allocation, identifies and mitigates 
