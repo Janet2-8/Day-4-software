@@ -104,7 +104,7 @@ SE_DAY4_Software-Project-Management
     
 
 
-How can understanding market trends inform your software’s positioning and development?
+13.How can understanding market trends inform your software’s positioning and development?
     Understanding market trends enables you to anticipate market shifts, adapt your strategies, and stay ahead of the competition. By analyzing and responding
     to market trends, you can make informed decisions, identify growth opportunities, and mitigate risks effectively.
 
