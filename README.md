@@ -7,11 +7,13 @@ Why is timely delivery crucial in software project management, and how can proje
     allows for timely market entry, and prevents cost overruns associated with delays. 
     Project managers can ensure deadlines are met through effective planning, clear communication, proactive monitoring, and proper resource allocation.
     
+    
 
 How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
     Effective cost control is crucial for software project success as it ensures projects stay within budget, optimizes resource allocation, identifies and mitigates 
     financial risks, and ultimately leads to higher profitability and project stability.
      Budget overruns can be prevented by implement strategies like accurate cost estimation, comprehensive risk management, clear scope definition, regular budget monitoring, and contingency planning. 
+     
 
 
 Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
@@ -40,6 +42,7 @@ In what types of projects might Agile be more beneficial than Waterfall, and vic
     with well-defined requirements, limited client involvement, and a need for a structured, sequential approach. 
     Consider Agile if your project has dynamic requirements, needs frequent client feedback, and values adaptability. Choose Waterfall for projects with well-defined requirements,
     limited client involvement during development, and where a structured approach is necessary.
+    
 
 
 What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
@@ -50,6 +53,7 @@ How does defining the project scope contribute to successful project planning? W
     A well-defined project scope outlines what is and isn't included in the project, preventing scope creep and ensuring the team stays focused on the core objectives.
     A Work Breakdown Structure (WBS) is a hierarchical decomposition of a project's work scope into smaller, more manageable tasks, crucial for project planning, execution, and control.
     It's useful for defining project scope, allocating resources, and improving communication and collaboration. 
+    
     
 
 What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
@@ -84,9 +88,11 @@ What are the main features or functionalities that make your software stand out?
     Testability.
 
 
+
 What data is available regarding the market size and growth potential for your software?
     To assess market size and growth potential for a software, you can analyze data on market revenue, user base, adoption rates, industry trends
     and competitor analysis, which can be found in market research reports and industry publications. 
+    
 
 
 How can understanding market trends inform your software’s positioning and development?
