@@ -35,6 +35,10 @@ Compare and contrast Agile and Waterfall methodologies. What are the main advant
 
     
 In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+    Agile is generally preferred for projects with evolving requirements, frequent client feedback, and a need for flexibility, while Waterfall is better suited for projects 
+    with well-defined requirements, limited client involvement, and a need for a structured, sequential approach. 
+    Consider Agile if your project has dynamic requirements, needs frequent client feedback, and values adaptability. Choose Waterfall for projects with well-defined requirements,
+    limited client involvement during development, and where a structured approach is necessary.
 
 
 What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
@@ -69,9 +73,19 @@ How would you describe your software solution in a way that captures its essence
 
 
 What are the main features or functionalities that make your software stand out?
+    Some of the min features that can make your software standout include:Usability.
+    Functionality.
+    Correctness.
+    Maintainability.
+    Reliability.
+    Flexibility.
+    Scalability.
+    Testability.
 
 
 What data is available regarding the market size and growth potential for your software?
+    To assess market size and growth potential for a software, you can analyze data on market revenue, user base, adoption rates, industry trends
+    and competitor analysis, which can be found in market research reports and industry publications. 
 
 
 How can understanding market trends inform your software’s positioning and development?
