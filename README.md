@@ -19,7 +19,6 @@ How does effective cost control contribute to the success of a software project?
 Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
     Agile, with its iterative and flexible approach, focuses on adaptability and customer feedback, while Waterfall, a structured and sequential method, 
     excels in projects with clear, well-defined requirements. 
-
     Advantages of agile.
     Adaptability and Flexibility: Agile allows for changes and adjustments throughout the project lifecycle, responding to evolving needs and customer feedback. 
     Faster Feedback Cycles: Iterative development and frequent testing lead to quicker identification and resolution of issues.
